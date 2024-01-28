@@ -6,3 +6,4 @@ Steps to run:
 2) npm i -g
 3) npm build
 4) wc-tool -c <file_path>
+5) Test/Run other commands as mentioned in above challenge link
